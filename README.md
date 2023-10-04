@@ -23,4 +23,7 @@ I'm actively seeking opportunities in the data-driven industry to apply my skill
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/eleazar-neamat-1b6313213/) for collaboration or any inquiries.
 
 Let's connect, learn, and explore the exciting world of data together! 💡
+<!-- GitHub Readme Stats -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=neleazar&show_icons=true&theme=dark" alt="GitHub Stats" />
+
 
