@@ -4,6 +4,7 @@ Hi there! I'm Eleazar, a motivated and highly skilled educator with a Master's d
 
 ## Skills and Experience
 - Analytical and problem-solving mindset
+- Web Scraping
 - Python, SQL
 - Power BI
 - Excel
