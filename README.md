@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there! 👋
 
 I'm Eleazar, a motivated and highly skilled educator with a Master's degree in Mathematics and current studies in Mathematics with Data Science at Uppsala University. I'm passionate about transitioning into a career in Data Science and bringing my strong analytical and problem-solving mindset to real-world challenges.
