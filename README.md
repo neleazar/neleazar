@@ -4,16 +4,14 @@ Hi there! I'm Eleazar, a motivated and highly skilled educator with a Master's d
 
 ## Skills and Experience
 - Analytical and problem-solving mindset
-- Web Scraping
-- Python, SQL
-- Power BI
-- Excel
+- Web Scraping, Python
+- SQL, Power BI, Excel
 - Machine Learning and Data Science Trainee at Integrify
 
-🔎 **Seeking:**
+## Seeking
 I'm actively seeking opportunities in the data-driven industry to apply my skills and knowledge, contribute to innovative projects, and grow professionally.
 
-📫 **Contact:**
+## Contact
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/eleazar-neamat-1b6313213/) and [email](mailto:neamateleazar@gmail.com) for collaboration or any inquiries.
 
 
