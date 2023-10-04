@@ -13,7 +13,7 @@ Hi there! I'm Eleazar, a motivated and highly skilled educator with a Master's d
 I'm actively seeking opportunities in the data-driven industry to apply my skills and knowledge, contribute to innovative projects, and grow professionally.
 
 📫 **Contact:**
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/eleazar-neamat-1b6313213/) and [email](neamateleazar@gmail.com) for collaboration or any inquiries.
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/eleazar-neamat-1b6313213/) and [email](mailto:neamateleazar@gmail.com) for collaboration or any inquiries.
 
 
 <!-- GitHub Readme Stats -->
