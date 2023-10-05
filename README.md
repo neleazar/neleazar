@@ -1,6 +1,6 @@
 # Eleazar Neamat
 
-Hi there! I'm Eleazar, a motivated and highly skilled educator with a Master's degree in Mathematics and Data Science at Uppsala University Sweden. Currently I'm Machine Learning and Data Science Trainee at [Integrify](http://www.integrify.io/).
+Hi there! I'm Eleazar, a motivated with a Master's degree in Mathematics and Data Science at Uppsala University Sweden. Currently I'm Machine Learning and Data Science Trainee at [Integrify](http://www.integrify.io/).
 
 ## Skills and Experience
 - Analytical and problem-solving mindset
