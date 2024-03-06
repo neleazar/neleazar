@@ -7,6 +7,7 @@ Hi there! I'm Eleazar, a motivated with a Master's degree in Mathematics and Dat
 - Web Scraping, Python
 - SQL, Power BI, Excel
 - Machine Learning and Data Science Trainee at Integrify
+- Intern at The Spark Foundation 
 
 ## Seeking
 I'm actively seeking opportunities in the data-driven industry to apply my skills and knowledge, contribute to innovative projects, and grow professionally.
